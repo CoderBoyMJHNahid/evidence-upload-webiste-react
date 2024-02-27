@@ -1,0 +1,26 @@
+.container{
+    width: 1170px;
+    margin:auto
+}
+.select_wrapper {
+    display: flex;
+    gap: 15px;
+}
+
+.form_input_wrapper {
+    padding: 20px;
+    background: #efefef;
+    box-shadow: 1px 1px 1px 1px grey;
+    outline: 1px solid lightgrey;
+    margin: 20px 0px;
+}
+div#button_wrapper {
+    display: flex;
+    justify-content: end;
+}
+
+div#button_wrapper button {
+    background: #03989f !important;
+    padding: 17px 40px;
+    font-size: 14px;
+}
